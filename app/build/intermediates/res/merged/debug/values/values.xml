@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/som/Workspace/Android/Training/UISpinner/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="colors">
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+    <string name="app_name">UISpinner</string>
+    <string name="color_prompt">Pick a Color. Any Color.</string>
+</resources>
